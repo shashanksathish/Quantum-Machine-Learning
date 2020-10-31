@@ -34,8 +34,9 @@ PyQuil can be installed using 'pip install pyquil'. PyQuil, along with quilc, th
 # Start Up
 
 First, open up two separate terminal windows for the quilc compiler and the qvm. 
-In the first terminal type 'qvm -S'.
-In the second terminal type 'quilc -S'
+
+[] In the first terminal type 'qvm -S'.
+[] In the second terminal type 'quilc -S'
 
 Then open the Jupyter Notebook and run the Project
 
