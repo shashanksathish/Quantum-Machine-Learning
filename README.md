@@ -2,8 +2,9 @@
 
 This repo contains three projects on Quantum Machine Learning for Generative Modeling 
 1. Fair and Biased Coin Toss
-2. Entanglement Generator 
-3. Quantum Circuit Born Machine (QCBM) 
+2. 2 Bit Entanglement Generator 
+3. 4 Bit Entanglement Generator 
+4. Quantum Circuit Born Machine (QCBM) 
 
 For Project 3, there are two helper scripts for utility functions (utils.py) and our classical optimizer (pso.py). Please make sure these are in the same folder as the Project 3 script in order to ensure that you can import functions from these scripts. 
 
